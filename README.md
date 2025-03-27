@@ -4,7 +4,7 @@ Activitat UF4 de Webmin fet per Oriol Florencio Pujol
 ## Activitat 1 - Crear i modificar usuaris
 - Has de crear dos usuaris bakalao_X i techno_X on (X és el vostre cognom).
 
-Anem a l'apartat de "Sistema" i seleccionem "Usuarios y Grupos"
+Anem a l'apartat de "Sistema" i seleccionem "Usuarios y Grupos"d
   
 ![image](https://github.com/user-attachments/assets/ee63d4bd-9423-4a15-8e98-aecdabab4b7f)
 
