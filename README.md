@@ -8,7 +8,7 @@ Activitat UF4 de Webmin fet per Oriol Florencio Pujol
 
 Anem a l'apartat de "Sistema" i seleccionem "Usuarios y Grupos"
 
-![image](https://github.com/user-attachments/assets/35a8f211-5554-478b-a862-71a71254b6f3)
+![image](https://github.com/user-attachments/assets/89120fc4-804e-409c-bc17-c9f3a9130e43)
 
 Dins d'aquest apartat fem click a "Crear un nuevo usuario", en aquest cas bakalao_florencio i techno_florencio.
 
