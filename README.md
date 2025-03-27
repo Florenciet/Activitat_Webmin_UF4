@@ -24,6 +24,8 @@ Posem contasenya per cada usuari i creem el seu respectiu HASH
 
 I la posem al apartat de "Clave de acceso pre-encriptada" de cada usuari
 
+![image](https://github.com/user-attachments/assets/06a6feac-9069-46ff-b414-1686b85a3868)
+
 Baixem fins al final de la configuració de l'usuari i polsem el botó groc per crear l'usuari
 
 ![image](https://github.com/user-attachments/assets/708ebac0-9f94-4061-a652-904530bac95a)
