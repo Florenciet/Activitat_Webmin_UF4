@@ -18,8 +18,8 @@ Creem el HASH decada contrasenya
 
 ![image](https://github.com/user-attachments/assets/49bf14f4-a618-4dff-927a-7625bfbbf947)
 
-Posem contasenya per cada usuari:  bakalao_florencio:12345 / $1$eps20GJa$VZn/eIuS1c9r5XDGoIJiN0               
-                                   techno_florencio:98765 / $1$zMvijIW2$Et6HJWREa34D/xyW2X7yL/
+Posem contasenya per cada usuari:  - bakalao_florencio:12345 / $1$eps20GJa$VZn/eIuS1c9r5XDGoIJiN0               
+                                   - techno_florencio:98765 / $1$zMvijIW2$Et6HJWREa34D/xyW2X7yL/
 
 ![image](https://github.com/user-attachments/assets/470c2f8b-4590-44cd-947e-2b4f9640ea74)
 
