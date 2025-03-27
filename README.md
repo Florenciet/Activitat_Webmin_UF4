@@ -12,7 +12,11 @@ Dins d'aquest apartat fem click a "Crear un nuevo usuario", en aquest cas bakala
 
 ![image](https://github.com/user-attachments/assets/89120fc4-804e-409c-bc17-c9f3a9130e43)
 
-Posem contasenya per cada usuari:  bakalao_florencio:12345      techno_florencio:98765
+![image](https://github.com/user-attachments/assets/a4f65d9d-d07f-44bf-94a6-d74a91d8db7d)
+
+![image](https://github.com/user-attachments/assets/49bf14f4-a618-4dff-927a-7625bfbbf947)
+
+Posem contasenya per cada usuari:  bakalao_florencio:12345 / $1$eps20GJa$VZn/eIuS1c9r5XDGoIJiN0      techno_florencio:98765 / $1$zMvijIW2$Et6HJWREa34D/xyW2X7yL/
 
 ![image](https://github.com/user-attachments/assets/470c2f8b-4590-44cd-947e-2b4f9640ea74)
 
