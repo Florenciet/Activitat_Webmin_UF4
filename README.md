@@ -22,5 +22,40 @@ Activitat UF4 de Webmin fet per Oriol Florencio Pujol
 
 ![image](https://github.com/user-attachments/assets/c3b2d258-106b-49a0-a32f-bfe1691ac6b1)
 
+- Utilitzaran bash com a shell.
+
+![image](https://github.com/user-attachments/assets/442e6d13-b14e-4f53-8126-b0613e4ed394)
+
+- Els usuaris estaran dins del grup que tingui el seu mateix nom i dins del grup usuaris_empresa.
+
+![image](https://github.com/user-attachments/assets/0fc22279-fc7c-424c-9833-dc896935b4cb)
+
+- L'usuari techno no podrà fer login després del dia 31-03-2025.
+
+![image](https://github.com/user-attachments/assets/3bc095e0-5a86-424b-ab69-59b25f8b65ad)
+
+- Comproveu que els usuaris poden iniciar sessió.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
