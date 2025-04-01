@@ -36,6 +36,7 @@ Activitat UF4 de Webmin fet per Oriol Florencio Pujol
 
 - Comproveu que els usuaris poden iniciar sessió.
 
+![image](https://github.com/user-attachments/assets/e382fa48-077e-40f6-b830-3fff308dc47c)
 
 
 
