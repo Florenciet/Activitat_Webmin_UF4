@@ -44,6 +44,89 @@ Activitat UF4 de Webmin fet per Oriol Florencio Pujol i Ayoub Bel Khaddar
 
 ## Activitat 2 - Programar tasques
 
+- Programa una tasca que neteja els paquets de Linux que ja no s'utilitzen una vegada al mes.
+
+![image](https://github.com/user-attachments/assets/0f7b2615-b4bd-484e-8d9e-ac601913c0cd)
+
+- Programa una tasca diaria que apaga l'ordinador a les 14:00.
+
+![image](https://github.com/user-attachments/assets/2ff63c24-2435-4c30-a8fb-3dfa0ce5dcc6)
+
+## Activitat 3 - Instal·lació de software
+
+- Utilitza webmin per mostrar quins paquets de software es podrien actualitzar.
+
+![image](https://github.com/user-attachments/assets/c5fdc3f0-3a9a-4f31-a2fd-c2d1523cc0c0)
+
+- Des de webmin actualitza un paquet.
+
+![image](https://github.com/user-attachments/assets/408d30b9-8074-4fd0-86b1-d346cde8f29a)
+
+- Utilitza webmin per instal·lar un joc de apt.
+
+![image](https://github.com/user-attachments/assets/00e50e41-2c29-4f16-a472-1cdffcfa77f1)
+
+![image](https://github.com/user-attachments/assets/6eb5c1e3-fe04-4ff7-8525-8c73a4fe4b4b)
+
+- Utilitza webmin per instal·lar gimp de apt.
+
+![image](https://github.com/user-attachments/assets/0e7e9a72-7af4-4119-b478-ffc3a5b2af7f)
+
+## Activitat 4 - Serveis
+
+- Utilitza webmin per mostrar els serveis que s'inicien amb el sistema.
+
+![image](https://github.com/user-attachments/assets/f7992973-a68f-48fb-9d7a-7ad4df8c9369)
+
+- Utilitza webmin per mostrar l'estat del servidor Apache.
+
+![image](https://github.com/user-attachments/assets/ac84423b-00a7-43a6-9f81-35723edd7c0c)
+
+- Utilitza webmin per aturar Apache.
+
+![image](https://github.com/user-attachments/assets/49749e1f-3b0a-4ea3-9945-fefa99a84644)
+
+- Utilitza webmin per mostrar l'estat del servidor Apache apagat.
+
+![image](https://github.com/user-attachments/assets/a9805843-313c-44b5-ba44-5791bbadfc9b)
+
+## Activitat 6 - Còpies de seguretat
+
+- Utilitzant el mòdul de Webmin Filesystem Backup fes una còpia de seguretat del directori /home al directori /backups (l'haureu de crear si no existeix).
+
+![image](https://github.com/user-attachments/assets/de258689-3c58-4e9e-ab2b-8ef45f5069d0)
+
+- Modifica alguns fitxers de /home.
+
+![image](https://github.com/user-attachments/assets/99bb9a10-a68e-4136-b201-2db02a91ddd4)
+
+- Recupera la còpia de seguretat.
+
+![image](https://github.com/user-attachments/assets/1204e984-cb6e-4ec1-9ed7-d749f8e42c6e)
+
+- Comprova que els fitxers de /home són els correctes.
+
+![image](https://github.com/user-attachments/assets/4dcc0c0c-f16f-4190-a5b1-8932d3129a28)
+
+- Programa una còpia de seguretat de /home/bakalao_X per els divendres a les 21:00.
+
+![image](https://github.com/user-attachments/assets/71d8e3ff-2da9-4891-a049-40d5719eca7b)
+
+- Esborra la còpia de seguretat programada anteriorment.
+
+![image](https://github.com/user-attachments/assets/e26b8e43-3299-48bc-9f7c-cda2907c443b)
+
+![image](https://github.com/user-attachments/assets/92f92dc3-d777-40e4-8c0a-4162d4b1b549)
+
+
+
+
+
+
+
+
+
+
 
 
 
