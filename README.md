@@ -16,7 +16,7 @@ Activitat UF4 de Webmin fet per Oriol Florencio Pujol
 
 2. Contrasenya de techno_belkhaddar --> 98765
 
-![image](https://github.com/user-attachments/assets/5a7b04f0-9662-4906-a733-f7c420dbb255)
+![image](https://github.com/user-attachments/assets/d3c67662-ee0c-4949-ad59-46bf70df1114)
 
 - Cada usuari tindrà un directori a home igual al seu nom d'usuari.
 
