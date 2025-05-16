@@ -40,8 +40,9 @@ Activitat UF4 de Webmin fet per Oriol Florencio Pujol
 
 - Comproveu que els usuaris poden iniciar sessió.
 
-![image](https://github.com/user-attachments/assets/e382fa48-077e-40f6-b830-3fff308dc47c)
+![image](https://github.com/user-attachments/assets/fca43434-a004-4e94-96db-fb680b57f445)
 
+## Activitat 2 - Programar tasques
 
 
 
