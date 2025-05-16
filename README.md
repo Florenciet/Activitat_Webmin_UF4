@@ -20,7 +20,7 @@ Activitat UF4 de Webmin fet per Oriol Florencio Pujol
 
 - Cada usuari tindrà un directori a home igual al seu nom d'usuari.
 
-![image](https://github.com/user-attachments/assets/c3b2d258-106b-49a0-a32f-bfe1691ac6b1)
+![image](https://github.com/user-attachments/assets/baf2fc59-47ee-4752-bf11-5858f65a3926)
 
 - Utilitzaran bash com a shell.
 
