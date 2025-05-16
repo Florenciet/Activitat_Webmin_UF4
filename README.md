@@ -12,9 +12,9 @@ Activitat UF4 de Webmin fet per Oriol Florencio Pujol
 
 1. Contrasenya de bakalao_florencio --> 12345
 
-![Captura desde 2025-04-01 10-03-47](https://github.com/user-attachments/assets/b3b046e3-6b42-4105-810b-41ff041e298e)
+![image](https://github.com/user-attachments/assets/7cfcbe80-e32c-4e6d-a718-dda04637109a)
 
-2. Contrasenya de techno_florencio --> 98765
+2. Contrasenya de techno_belkhaddar --> 98765
 
 ![image](https://github.com/user-attachments/assets/5a7b04f0-9662-4906-a733-f7c420dbb255)
 
