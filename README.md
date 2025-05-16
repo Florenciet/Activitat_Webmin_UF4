@@ -24,7 +24,7 @@ Activitat UF4 de Webmin fet per Oriol Florencio Pujol
 
 - Utilitzaran bash com a shell.
 
-![image](https://github.com/user-attachments/assets/442e6d13-b14e-4f53-8126-b0613e4ed394)
+![image](https://github.com/user-attachments/assets/c7f791e1-4dd7-4fe0-9334-12a084d7c751)
 
 - Els usuaris estaran dins del grup que tingui el seu mateix nom i dins del grup usuaris_empresa.
 
