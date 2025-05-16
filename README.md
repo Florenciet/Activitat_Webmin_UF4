@@ -6,7 +6,7 @@ Activitat UF4 de Webmin fet per Oriol Florencio Pujol
 
 ![image](https://github.com/user-attachments/assets/b88ee601-a31d-4bbe-9023-42f67c431f89)
 
-![image](https://github.com/user-attachments/assets/da86094c-5adc-4ce3-b3c2-b92fec0119fe)
+![image](https://github.com/user-attachments/assets/05c0d42a-54ec-40a6-8765-61ef0f05f0ed)
 
 - Els usuaris et passaran el hash de la seva contrasenya, no la contrasenya real. (podeu fer servir openssl).
 
