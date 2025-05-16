@@ -28,11 +28,15 @@ Activitat UF4 de Webmin fet per Oriol Florencio Pujol
 
 - Els usuaris estaran dins del grup que tingui el seu mateix nom i dins del grup usuaris_empresa.
 
-![image](https://github.com/user-attachments/assets/0fc22279-fc7c-424c-9833-dc896935b4cb)
+![image](https://github.com/user-attachments/assets/3a9ce4e4-6bc5-4823-ace8-92f0094c8b9a)
+
+![image](https://github.com/user-attachments/assets/f8cb6dd1-e7ec-4e93-a332-d0da7c139e4a)
+
+![image](https://github.com/user-attachments/assets/48a7aba3-011a-4ce6-8d72-7588cd1bd155)
 
 - L'usuari techno no podrà fer login després del dia 31-03-2025.
 
-![image](https://github.com/user-attachments/assets/3bc095e0-5a86-424b-ab69-59b25f8b65ad)
+![image](https://github.com/user-attachments/assets/bbd677db-7f35-44c6-a6c2-f38bc7a9c655)
 
 - Comproveu que els usuaris poden iniciar sessió.
 
